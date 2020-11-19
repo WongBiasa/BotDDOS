@@ -1,6 +1,6 @@
 #!/user/bin/python3
 #recode dari Hammer
-from queue import Queue
+from queue import queue
 from optparse import OptionParser
 import time,sys,socket,threading,logging,urllib.request,random
 
